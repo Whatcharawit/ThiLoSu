@@ -1,0 +1,7 @@
+- เขียนไฟล์ที่เก็บ Serial number เสร็จแล้ว
+- เขียน tmp file เสร็จแล้ว
+
+- ต่อไปต้องอ่านไฟล์ Serial number 
+- นำค่าที่อ่านได้จาก Inhand มาเทียบกับ Serial number ที่เขียนไว้ในไฟล์
+- เรียก tmp file ขึ้นมาแล้วจัด payload ให้เรียงตามลำดับของ Serial number ที่เก็บไว้ในไฟล์
+- ถ้า Serial number ถูกเปลี่ยน จะต้องแก้ไขไฟล์ Serial number ให้เป็นปัจจุบันแล้วค่อยเรียง payload ใหม่

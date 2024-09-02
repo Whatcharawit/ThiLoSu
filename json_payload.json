@@ -1,0 +1,190 @@
+{
+  "timestamp": 1725288384,
+  "timestampMsec": 1725288383573,
+  "group_name": "Controller",
+  "values": {
+    "SMU01_Controller": {
+      "mb030": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb029": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb028": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb027": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb026": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb025": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb024": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb023": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb022": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb021": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb020": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb019": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb018": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb017": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb016": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb015": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb014": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb013": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb012": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb011": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb010": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb009": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb008": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb007": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb006": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb005": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb004": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb003": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb002": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      },
+      "mb001": {
+        "raw_data": 0,
+        "timestamp": 0,
+        "status": 0,
+        "timestampMsec": 0
+      }
+    }
+  },
+  "mac_address": "0018052F519B"
+}
