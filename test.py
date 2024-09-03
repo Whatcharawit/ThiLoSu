@@ -1,16 +1,16 @@
-import json
+message = {}
+print(message)
 
-with open("json_payload.json", 'r') as file:
-    message = json.load(file)
-    file.close()
-
-print(message["values"]["SMU01_Controller"])
-
-dict_ = {
-    "a": 1,
-    "b": 2
+battery = {
+    "Batt1": {
+        "raw_data": 123,
+        "status": 1
+    }
 }
-print(dict_)
 
-dict_["c"] = {}
-print(dict_)
+message["values"] = {"key": 11}
+
+print(message)
+
+message["values"].update(battery)
+print(message)

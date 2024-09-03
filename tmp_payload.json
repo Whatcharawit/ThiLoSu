@@ -1,0 +1,142 @@
+{
+    "345202354": {
+      "0": {
+        "raw_data": 2.1,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358184
+      },
+      "1": {
+        "raw_data": 0.05,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358184
+      },
+      "2": {
+        "raw_data": 2.25,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358215
+      }
+    },
+    "345202707": {
+      "0": {
+        "raw_data": 2.3,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358308
+      },
+      "1": {
+        "raw_data": 1.55,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358308
+      },
+      "2": {
+        "raw_data": 2.22,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358339
+      }
+    },
+    "2121412292": {
+      "0": {
+        "raw_data": 2.4,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358370
+      },
+      "1": {
+        "raw_data": 2.25,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358370
+      },
+      "2": {
+        "raw_data": 2.23,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358401
+      }
+    },
+    "2129500069": {
+      "0": {
+        "raw_data": 2.25,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358246
+      },
+      "1": {
+        "raw_data": 0.09,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358246
+      },
+      "2": {
+        "raw_data": 2.21,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358277
+      }
+    },
+    "2129500257": {
+      "0": {
+        "raw_data": 2.5,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358492
+      },
+      "1": {
+        "raw_data": 3,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358492
+      },
+      "2": {
+        "raw_data": 2.2,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358522
+      }
+    },
+    "-1950664292": {
+      "0": {
+        "raw_data": 2.6,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358431
+      },
+      "1": {
+        "raw_data": 3.5,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358431
+      },
+      "2": {
+        "raw_data": 2.24,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358461
+      }
+    },
+    "-1950665432": {
+      "0": {
+        "raw_data": 2.7,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358553
+      },
+      "1": {
+        "raw_data": 4,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358553
+      },
+      "2": {
+        "raw_data": 2.26,
+        "timestamp": 1725334358,
+        "status": 1,
+        "timestampMsec": 1725334358600
+      }
+    }
+  }
